@@ -16,3 +16,8 @@ A simple **2-player Tic Tac Toe game** built using C++. The game is played in th
 
 ## 🖼️ Game Preview
 
+![image](https://github.com/user-attachments/assets/65150852-5fb0-44d1-a4bf-43c07d15e67d)
+
+
+![image](https://github.com/user-attachments/assets/a0ff49a2-df1d-4804-abe8-2e28743b2269)
+
